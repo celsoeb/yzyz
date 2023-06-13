@@ -1,0 +1,17 @@
+h1, p {
+  text-align: center;
+}
+
+#numbers {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin: 0 5px;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+}
